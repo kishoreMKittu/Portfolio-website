@@ -1,0 +1,253 @@
+/* Header */
+header {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* About Me */
+#about {
+    background-color: #f5f5f5;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#about h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#about p {
+    color: #555555;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#about address {
+    margin-top: 20px;
+    color: #777777;
+}
+
+#about address a {
+    color: #4285f4;
+    text-decoration: none;
+}
+
+#about address a:hover {
+    text-decoration: underline;
+}
+
+/* Education */
+#education {
+    background-color: #e0e0e0;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#education h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#education p {
+    color: #555555;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Projects */
+#projects {
+    background-color: #d3d3d3;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#projects h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#projects h3 {
+    color: #555555;
+    font-size: 24px;
+}
+
+#projects p {
+    color: #777777;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Skills */
+#skills {
+    background-color: #c0c0c0;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#skills h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#skills ul {
+    color: #555555;
+}
+
+#skills li {
+    color: #555555;
+}
+
+/* Certifications */
+#certifications {
+    background-color: #b0b0b0;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#certifications h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#certifications ul {
+    color: #555555;
+    list-style-type: none;
+    padding: 0;
+}
+
+#certifications li {
+    margin-bottom: 15px;
+}
+
+#certifications li:before {
+    content: "\2022";
+    color: #555555;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+/* Extra-Curricular Activities */
+#extra-curricular {
+    background-color: #a0a0a0;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#extra-curricular h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#extra-curricular ul {
+    color: #555555;
+    list-style-type: none;
+    padding: 0;
+}
+
+#extra-curricular li {
+    margin-bottom: 15px;
+}
+
+#extra-curricular li:before {
+    content: "\2022";
+    color: #555555;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+/* Languages */
+#Languages {
+    background-color: #a0a0a0;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#Languages h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#Languages ul {
+    color: #555555;
+    list-style-type: none;
+    padding: 0;
+}
+
+#Languages li {
+    margin-bottom: 15px;
+}
+
+#Languages li:before {
+    content: "\2022";
+    color: #555555;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+/* ... (remaining styles) ... */
+
+
+/* Contact */
+#contact {
+    background-color: #808080;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#contact h2 {
+    color: #333333;
+    font-size: 28px;
+}
+
+#contact p {
+    color: #555555;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Footer */
+footer {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 1em 0;
+    text-align: center;
+}
